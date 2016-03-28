@@ -1,0 +1,13 @@
+﻿body form  textarea {
+            color:blue;
+            background-color: darkorange;
+
+        }
+#nume{
+    padding:100px;
+    border:20px;
+    background-color: yellow;
+}
+body {
+    background-color: gray;
+}
