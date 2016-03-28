@@ -1,12 +1,12 @@
 ﻿body form  textarea {
             color:blue;
-            background-color: darkorange;
+            background-color: lawngreen;
 
         }
 #nume{
     padding:100px;
     border:20px;
-    background-color: yellow;
+    background-color: green;
 }
 body {
     background-color: gray;
